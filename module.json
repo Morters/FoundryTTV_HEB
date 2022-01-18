@@ -1,6 +1,6 @@
 {
-  "name": "module",
-  "title": "New Module",
+  "name": "FoundryTTV Hebrew",
+  "title": "Foundry Heb Translation",
   "description": "",
   "version": "This is auto replaced",
   "library": "false",
@@ -9,9 +9,9 @@
   "compatibleCoreVersion": "9",
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "LinirZ",
+      "url": "https://github.com/Morters/FoundryTTV_HEB",
+      "discord": "Valugar#9492"
     }
   ],
   "dependencies": [
@@ -31,9 +31,9 @@
   ],
   "languages": [
     {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
+      "lang": "he",
+      "name": "Hebrew",
+      "path": "languages/he.json"
     }
   ],
   "url": "This is auto replaced",
